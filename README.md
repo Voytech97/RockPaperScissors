@@ -1,2 +1,2 @@
 # RockPaperScissors
-A simple game made in JavaScript
+This is a simple game made by me in JavaScript.
